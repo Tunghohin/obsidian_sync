@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b3d2ee3e4cc456ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6c30874bb633af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97a32720db262427",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2611f14da76ab41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc88ca8604f15fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8258d2993fc9ceff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45657d50453f15d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01a410e2279c7e2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee872e109269831f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2025267729f0a3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31b85274ed47ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f802f244b97bc090",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c96fad845a99b974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e28e960f5be9f6e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5939d43c8a08b9d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "97a32720db262427",
+  "lastOpenFiles": [
+    "embed/boot and build/Linux 系统移植.md",
+    "embed/1. i-MX6ULL boot 流程/i-MX6ULL boot 流程.md",
+    "embed/boot and build",
+    "embed/未命名.md",
+    "embed/attachments/Screenshot from 2023-10-02 02-52-56.png",
+    "Untitled.md",
+    "Untitled",
+    "embed/attachments/Screenshot from 2023-10-02 01-40-01.png",
+    "embed/attachments/Screenshot from 2023-10-02 01-30-05.png",
+    "embed/1. i-MX6ULL boot 流程",
+    "embed/attachments/IMX6ULL_CORE_V2.0(核心板原理图).pdf",
+    "embed/attachments/Screenshot from 2023-10-02 00-46-05.png",
+    "embed/attachments/IMX6ULL_ALPHA_V2.4(底板原理图).pdf",
+    "embed/attachments",
+    "embed/attachments/Screenshot from 2023-10-01 16-28-20.png",
+    "embed/attachments/Pasted image 20231001162309.png",
+    "embed/imgs",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "embed"
+  ]
+}
