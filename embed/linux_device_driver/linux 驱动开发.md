@@ -1,0 +1,59 @@
+
+
+## 驱动模块的加载和卸载
+
+编写驱动的时候需要注册这两种操作函数，模块的加载和
+卸载注册函数
+```C
+module_init(xxx_init); //xxx_init 为加载模块的具体函数
+//注册模块加载函数
+module_exit(xxx_exit);
+//注册模块卸载函数 
+MODULE_LICENSE()
+//添加模块 LICENSE 信息
+MODULE_AUTHOR()
+//添加模块作者信息
+```
+
+驱动编译完成以后扩展名为.ko，有两种命令可以加载驱动模块：insmod 和 modprobe。
+insmod不解决依赖问题，但modprobe可以。同样地，rmmod卸载模块不解决依赖问题，modprobe -r 卸载模块卸载所有相关依赖，但一般不推荐用其卸载模块。
+
+## 字符设备注册与注销
+
+对于字符设备驱动而言，当驱动模块加载成功以后需要注册字符设备，同样，卸载驱动模
+块的时候也需要注销掉字符设备。
+
+```C 
+static inline int register_chrdev(unsigned int major, const char *name,
+const struct file_operations *fops)
+static inline void unregister_chrdev(unsigned int major, const char *name) 
+```
+* major：主设备号
+* name：设备名称
+* fops：file_operations 结构体
+
+## Linux 设备号
+
+>Linux 设备号：设备号由主设备号和次设备号两部分组成，主设备号表示某一个具体的驱动，次设备号表示使用这个驱动的各个设备（高 12 位为主设备号，低 20 位为次设备号）
+
+###### 设备号的分配
+
+静态分配：
+cat /proc/devices 用于查看当前已使用的主设备号，并手动在注册函数指定主设备号
+
+动态分配：
+```C
+int alloc_chrdev_region(dev_t *dev, unsigned baseminor, unsigned count, const char *name)
+```
+* dev：保存申请到的设备号
+* baseminor：次设备号起始（一般为0）
+* count：申请设备号数量
+* name：设备名称
+
+###### 释放掉设备号
+
+```C
+void unregister_chrdev_region(dev_t from, unsigned count)
+```
+* from：要释放的设备号
+* count：表示从 from 开始，要释放的设备号数量
