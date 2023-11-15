@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embed/linux_device_driver/2. chrdev.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embed/linux_device_driver/2. chrdev.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embed/linux_device_driver/2. chrdev.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embed/linux_device_driver/2. chrdev.md"
+                "file": "embed/linux_device_driver/2. 字符设备.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "97a32720db262427",
   "lastOpenFiles": [
-    "embed/linux_device_driver/1. linux 驱动开发.md",
-    "embed/linux_device_driver/2. chrdev.md",
+    "embed/linux_device_driver/1. linux 驱动开发基础.md",
+    "embed/linux_device_driver/2. 字符设备.md",
     "embed/boot_and_build/1. Linux 系统移植.md",
     "embed/boot_and_build/0. prerequire.md",
     "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
