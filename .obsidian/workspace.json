@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embed/bare_metal/2. PCI and PCIe.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embed/bare_metal/2. PCI and PCIe.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embed/bare_metal/2. PCI and PCIe.md",
+                "file": "embed/linux_device_driver/2. 字符设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embed/bare_metal/2. PCI and PCIe.md"
+                "file": "embed/linux_device_driver/2. 字符设备.md"
               }
             }
           },
@@ -156,12 +156,13 @@
   },
   "active": "97a32720db262427",
   "lastOpenFiles": [
-    "embed/linux_device_driver/2. 字符设备.md",
-    "embed/bare_metal/2. PCI and PCIe.md",
     "embed/linux_device_driver/1. linux 驱动开发基础.md",
+    "embed/linux_device_driver/2. 字符设备.md",
+    "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
+    "embed/bare_metal/2. PCI and PCIe.md",
+    "embed/attachments/Screenshot from 2023-11-18 20-33-11.png",
     "embed/boot_and_build/1. Linux 系统移植.md",
     "embed/boot_and_build/0. prerequire.md",
-    "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
     "embed/linux_device_driver",
     "embed/bare_metal",
     "embed/boot_and_build",

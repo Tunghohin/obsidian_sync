@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "baseFontSize": 15
 }
