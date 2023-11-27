@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee872e109269831f",
@@ -155,9 +154,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "97a32720db262427",
+  "active": "8258d2993fc9ceff",
   "lastOpenFiles": [
-    "Screenshot from 2023-11-25 22-09-44.png",
+    "embed/attachments/Screenshot from 2023-11-25 22-09-44 1.png",
     "embed/attachments/Screenshot from 2023-11-25 22-09-44.png",
     "embed/linux_device_driver/5. PCI or PCI-e 设备.md",
     "embed/linux_device_driver/6. uart 子系统.md",
