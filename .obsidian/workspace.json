@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embed/linux_device_driver/6. uart 子系统.md",
+                "file": "embed/linux_device_driver/3. 设备树.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embed/linux_device_driver/6. uart 子系统.md",
+                "file": "embed/linux_device_driver/3. 设备树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embed/linux_device_driver/6. uart 子系统.md",
+                "file": "embed/linux_device_driver/3. 设备树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embed/linux_device_driver/6. uart 子系统.md"
+                "file": "embed/linux_device_driver/3. 设备树.md"
               }
             }
           },
@@ -154,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8258d2993fc9ceff",
+  "active": "97a32720db262427",
   "lastOpenFiles": [
+    "embed/linux_device_driver/6. uart 子系统.md",
     "embed/attachments/Screenshot from 2023-11-25 22-09-44 1.png",
     "embed/attachments/Screenshot from 2023-11-25 22-09-44.png",
     "embed/linux_device_driver/5. PCI or PCI-e 设备.md",
-    "embed/linux_device_driver/6. uart 子系统.md",
     "embed/bare_metal/2. PCI and PCIe.md",
     "embed/boot_and_build/1. Linux 系统移植.md",
     "embed/boot_and_build/0. prerequire.md",
