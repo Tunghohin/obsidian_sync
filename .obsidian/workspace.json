@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embed/linux_device_driver/3. 设备树.md",
+                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embed/linux_device_driver/3. 设备树.md",
+                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embed/linux_device_driver/3. 设备树.md",
+                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embed/linux_device_driver/3. 设备树.md"
+                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md"
               }
             }
           },
@@ -156,6 +156,11 @@
   },
   "active": "97a32720db262427",
   "lastOpenFiles": [
+    "re1ek/E1000E 驱动到工控机的移植流程总结 1.md",
+    "re1ek/E1000E 驱动到工控机的移植流程总结.md",
+    "embed/linux_device_driver/4. pinctrl 子系统.md",
+    "embed/linux_device_driver/3. 设备树.md",
+    "re1ek",
     "embed/linux_device_driver/6. uart 子系统.md",
     "embed/attachments/Screenshot from 2023-11-25 22-09-44 1.png",
     "embed/attachments/Screenshot from 2023-11-25 22-09-44.png",
@@ -164,8 +169,6 @@
     "embed/boot_and_build/1. Linux 系统移植.md",
     "embed/boot_and_build/0. prerequire.md",
     "embed/linux_device_driver/1. linux 驱动开发基础.md",
-    "embed/linux_device_driver/4. pinctrl 子系统.md",
-    "embed/linux_device_driver/3. 设备树.md",
     "embed/linux_device_driver/2. 字符设备.md",
     "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
     "embed/attachments/Screenshot from 2023-11-18 20-33-11.png",
@@ -175,7 +178,6 @@
     "embed/未命名.md",
     "embed/attachments/Screenshot from 2023-10-02 02-52-56.png",
     "Untitled.md",
-    "Untitled",
     "embed/attachments/Screenshot from 2023-10-02 01-40-01.png",
     "embed/attachments/Screenshot from 2023-10-02 01-30-05.png",
     "embed/bare_metal/1. i-MX6ULL boot 流程",
