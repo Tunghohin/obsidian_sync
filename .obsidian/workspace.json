@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
+                "file": "Infinitensor quantization/深度学习模型量化 (model quantization).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
+                "file": "Infinitensor quantization/深度学习模型量化 (model quantization).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md",
+                "file": "Infinitensor quantization/深度学习模型量化 (model quantization).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "re1ek/E1000E 驱动到工控机的移植流程总结.md"
+                "file": "Infinitensor quantization/深度学习模型量化 (model quantization).md"
               }
             }
           },
@@ -156,8 +156,15 @@
   },
   "active": "97a32720db262427",
   "lastOpenFiles": [
-    "re1ek/E1000E 驱动到工控机的移植流程总结 1.md",
+    "embed/boot_and_build/1. Linux 系统移植.md",
+    "embed/boot_and_build/0. prerequire.md",
+    "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
+    "Infinitensor quantization/深度学习模型量化 (model quantization).md",
+    "imgs/Pasted image 20240819115949.png",
+    "imgs",
     "re1ek/E1000E 驱动到工控机的移植流程总结.md",
+    "Infinitensor quantization",
+    "re1ek/E1000E 驱动到工控机的移植流程总结 1.md",
     "embed/linux_device_driver/4. pinctrl 子系统.md",
     "embed/linux_device_driver/3. 设备树.md",
     "re1ek",
@@ -166,11 +173,8 @@
     "embed/attachments/Screenshot from 2023-11-25 22-09-44.png",
     "embed/linux_device_driver/5. PCI or PCI-e 设备.md",
     "embed/bare_metal/2. PCI and PCIe.md",
-    "embed/boot_and_build/1. Linux 系统移植.md",
-    "embed/boot_and_build/0. prerequire.md",
     "embed/linux_device_driver/1. linux 驱动开发基础.md",
     "embed/linux_device_driver/2. 字符设备.md",
-    "embed/bare_metal/1. i-MX6ULL boot 流程/1. i-MX6ULL boot 流程.md",
     "embed/attachments/Screenshot from 2023-11-18 20-33-11.png",
     "embed/linux_device_driver",
     "embed/bare_metal",
@@ -187,9 +191,7 @@
     "embed/attachments",
     "embed/attachments/Screenshot from 2023-10-01 16-28-20.png",
     "embed/attachments/Pasted image 20231001162309.png",
-    "embed/imgs",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "embed"
+    "Untitled.canvas"
   ]
 }
